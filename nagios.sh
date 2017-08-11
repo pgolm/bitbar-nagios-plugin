@@ -5,7 +5,9 @@
 # <bitbar.author>Peter Golm</bitbar.author>
 # <bitbar.author.github>pgolm</bitbar.author.github>
 # <bitbar.desc>Nagios info</bitbar.desc>
+# <bitbar.image>https://github.com/pgolm/bitbar-nagios-plugin/blob/master/doc/preview.png</bitbar.image>
 # <bitbar.dependencies>bash</bitbar.dependencies>
+# <bitbar.abouturl>https://github.com/pgolm/bitbar-nagios-plugin/blob/master/README.md</bitbar.abouturl>
 
 # Configuration
 URL="nagios.example.com/cgi-bin/nagios3" # ie nagios.example.com
