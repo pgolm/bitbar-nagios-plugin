@@ -2,6 +2,8 @@
 
 Puts nagios into your Mac OS X menu bar.
 
+[+ Add to BitBar](bitbar://openPlugin?title=Nagios&src=https://github.com/pgolm/bitbar-nagios-plugin/raw/master/nagios.30s.sh)
+
 ![Preview](doc/preview.png)
 
 ## Configure
